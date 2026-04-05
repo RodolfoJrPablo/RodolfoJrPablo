@@ -32,7 +32,7 @@ Hi, I'm Rodolfo, a cybersecurity student passionate about Blue Team operations a
 
 ## 📁 Projects
 
-### 🟢 Easy — Home Lab SIEM with Splunk
+### 🟢 ### 🟢 Easy — [Home Lab SIEM with Splunk](https://github.com/RodolfoJrPablo/Home-Lab-SIEM-with-Splunk)
 
 **Goal:** Ingest logs from your own machine (Windows Event Logs, syslog), and create basic dashboards to visualize login attempts, process creation, and network connections. Great intro to log ingestion and querying.
 
@@ -43,7 +43,7 @@ Hi, I'm Rodolfo, a cybersecurity student passionate about Blue Team operations a
 
 **Skills demonstrated:** Log ingestion, SIEM querying, dashboard creation  
 **Tools used:** Splunk Free, Windows Event Logs  
-**Write-up:** [Link to report]
+**Write-up:** [View project README](https://github.com/yourusername/home-lab-siem/blob/main/README.md)
 
 ---
 
@@ -110,7 +110,7 @@ Hi, I'm Rodolfo, a cybersecurity student passionate about Blue Team operations a
 
 ## 📚 Learning Path
 
-- [x] CompTIA Security+ *(or in progress)*
+- [ ] CompTIA Security+
 - [ ] Blue Team Labs Online — SOC Level 1
 - [ ] TryHackMe — SOC Analyst Learning Path
 - [ ] Splunk Core Certified User
@@ -143,4 +143,4 @@ Hi, I'm Rodolfo, a cybersecurity student passionate about Blue Team operations a
 
 ---
 
-*Last updated: [Month Year]*
+*Last updated: April 2026*
